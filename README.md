@@ -381,8 +381,6 @@ Pour 100 candidatures : ~2€ seulement ! 🎯
 ## 🤝 Support
 
 - 🐛 **Bugs** : [Ouvrir une issue](https://github.com/Rominaurdel/jobassist/issues)
-- 💬 **Questions** : [Discussions](https://github.com/Rominaurdel/jobassist/discussions)
-- 📧 **Contact** : romaincurdel@icloud.com
 - 🔗 **LinkedIn** : [Romain Curdel](https://linkedin.com/in/romain-curdel)
 
 Pour les bugs ou questions :
