@@ -47,20 +47,6 @@ pip install -r requirements.txt
 python -m src.jobassist.cli -i
 ```
 
-### Étape 3 : Configurer les clés API
-
-Créez un fichier `.env` à la racine du projet :
-
-```bash
-# Windows PowerShell
-Copy-Item .env.example .env
-
-# Linux/Mac
-cp .env.example .env
-```
-
-Puis éditez `.env` avec vos clés API (voir section Configuration ci-dessous).
-
 ### Utilisation
 
 Une fois installé, vous pouvez utiliser JobAssist depuis n'importe quel répertoire :
@@ -372,7 +358,7 @@ foreach ($offer in $offers) {
 ## 📈 Coûts API estimés
 
 - **Perplexity** : ~0.01-0.03€ par adaptation (modèle sonar-pro)
-- **Gemini** : ~0.0005-0.002€ par adaptation (gemini-2.5-flash)
+- **Gemini** : 0 si les quota gratuit ne sont pas dépassé sinon ~0.0005-0.002€ par adaptation (gemini-2.5-flash)
 - **Total** : ~0.02€ par CV adapté
 
 Pour 100 candidatures : ~2€ seulement ! 🎯
