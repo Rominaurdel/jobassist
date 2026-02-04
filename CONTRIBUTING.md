@@ -6,7 +6,7 @@ Merci de votre intérêt pour contribuer à JobAssist ! 🎉
 
 ### Signaler un bug
 
-Si vous trouvez un bug, veuillez créer une [issue](https://github.com/votre-repo/jobassist/issues) avec :
+Si vous trouvez un bug, veuillez créer une [issue](https://github.com/rominaurdel/jobassist/issues) avec :
 - Une description claire du problème
 - Les étapes pour reproduire le bug
 - Le comportement attendu vs le comportement actuel
