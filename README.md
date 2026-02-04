@@ -2,6 +2,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
+⭐ **Si ce projet vous aide, n'hésitez pas à lui donner une étoile !** ⭐
+
 # 🤖 JobAssist - Agent IA d'Adaptation de CV
 
 Outil Python intelligent qui adapte automatiquement votre CV à chaque offre d'emploi en utilisant **Perplexity AI** et **Google Gemini** (gratuit dans la limite des quotas). Analyse l'offre, identifie les compétences clés, réécrit votre CV de manière optimale et calcule un score de pertinence.
@@ -17,6 +19,15 @@ Outil Python intelligent qui adapte automatiquement votre CV à chaque offre d'e
 ✅ **Scoring** - Calcule le score de pertinence (0-100%)  
 ✅ **Template Word** - Export avec mise en page préservée (optionnel)  
 ✅ **Rapide** - ~30-45 secondes par adaptation
+
+## 🛠️ Technologies
+
+- **Python** 3.8+
+- **Perplexity API** - Analyse des offres et adaptation du CV
+- **Google Gemini** - Analyse des offres et adaptation du CV
+- **ReportLab** - Génération PDF
+- **pypdf** - Extraction PDF
+- **docxtpl** - Templates Word
 
 ## 📦 Installation
 
@@ -368,6 +379,11 @@ foreach ($offer in $offers) {
 Pour 100 candidatures : ~2€ seulement ! 🎯
 
 ## 🤝 Support
+
+- 🐛 **Bugs** : [Ouvrir une issue](https://github.com/Rominaurdel/jobassist/issues)
+- 💬 **Questions** : [Discussions](https://github.com/Rominaurdel/jobassist/discussions)
+- 📧 **Contact** : romaincurdel@icloud.com
+- 🔗 **LinkedIn** : [Romain Curdel](https://linkedin.com/in/romain-curdel)
 
 Pour les bugs ou questions :
 1. Vérifie les logs du script
