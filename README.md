@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 # 🤖 JobAssist - Agent IA d'Adaptation de CV
 
 Outil Python intelligent qui adapte automatiquement votre CV à chaque offre d'emploi en utilisant **Perplexity AI** et **Google Gemini** (gratuit dans la limite des quotas). Analyse l'offre, identifie les compétences clés, réécrit votre CV de manière optimale et calcule un score de pertinence.
