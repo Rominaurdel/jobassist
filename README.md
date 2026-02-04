@@ -1,6 +1,6 @@
 # 🤖 JobAssist - Agent IA d'Adaptation de CV
 
-Outil Python intelligent qui adapte automatiquement votre CV à chaque offre d'emploi en utilisant **Perplexity AI** et **Google Gemini**. Analyse l'offre, identifie les compétences clés, réécrit votre CV de manière optimale et calcule un score de pertinence.
+Outil Python intelligent qui adapte automatiquement votre CV à chaque offre d'emploi en utilisant **Perplexity AI** et **Google Gemini** (gratuit dans la limite des quota). Analyse l'offre, identifie les compétences clés, réécrit votre CV de manière optimale et calcule un score de pertinence.
 
 ## ✨ Fonctionnalités
 
