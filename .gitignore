@@ -1,0 +1,52 @@
+# Fichiers de configuration avec clés API
+.env
+*.env
+.env.local
+.env.*.local
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv
+
+# Fichiers générés
+CV_Adapte.pdf
+CV_Adapte.txt
+CV_Adapte.docx
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build et distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+*.swp
+*.swo
+*~
